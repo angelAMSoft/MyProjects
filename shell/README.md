@@ -3,7 +3,7 @@
 
 #search_routed_interface.sh
 Выводит список сетевых интерфейсов в формате:
-Интерфейс	Название сетевого адаптера
+Интерфейс	Модель сетевого адаптера
 
 например
 eth1 Intel Corporation 82540EM Gigabit Ethernet Controller
